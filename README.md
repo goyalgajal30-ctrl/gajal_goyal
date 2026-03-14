@@ -26,6 +26,6 @@ C++, basic DSA, and programming fundamentals.
 
 ## 🌐 Connect with me
 
-* GitHub: https://github.com/gajalgoyal
+* GitHub: https://github.com/gajalgoyal30
 * LinkedIn: www.linkedin.com/in/gajalgoyal19
 * Email: goyalgajal30@gmail.com
